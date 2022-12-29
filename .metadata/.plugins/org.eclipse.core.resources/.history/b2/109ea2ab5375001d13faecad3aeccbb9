@@ -1,5 +1,0 @@
-package threadSafeLazyInitialized;
-
-public class ThreadSafeLazyInitializedSingleton {
-
-}

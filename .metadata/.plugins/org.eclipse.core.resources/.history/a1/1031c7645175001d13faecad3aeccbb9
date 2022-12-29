@@ -1,7 +1,0 @@
-package table;
-
-public class FlasticTable {
-    public void create() {
-        System.out.println("Create plastic table");
-    }
-}

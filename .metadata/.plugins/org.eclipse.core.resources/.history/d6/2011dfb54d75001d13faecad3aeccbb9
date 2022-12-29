@@ -1,6 +1,0 @@
-package factory_Pattern;
-
-public interface Shape {
-	Double perimeter();
-	Double area();
-}

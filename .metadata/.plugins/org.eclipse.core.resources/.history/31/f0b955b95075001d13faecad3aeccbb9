@@ -1,8 +1,0 @@
-package Table;
-
-public class WoodTable {
-	@Override
-    public void create() {
-        System.out.println("Create wood table");
-    }
-}

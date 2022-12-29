@@ -1,8 +1,0 @@
-package Table;
-
-public interface Table {
-	void create();
-	public enum MaterialType {
-	    FLASTIC, WOOD
-	}
-}

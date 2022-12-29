@@ -1,7 +1,0 @@
-package Table;
-
-public class WoodTable {
-    public void create() {
-        System.out.println("Create wood table");
-    }
-}

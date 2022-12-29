@@ -1,5 +1,0 @@
-package state;
-
-public abstract sealed class SubmittedState {
-
-}
