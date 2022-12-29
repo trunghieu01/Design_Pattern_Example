@@ -1,0 +1,5 @@
+package serializationandSingleton;
+
+public class SingletonSerializedTest {
+
+}

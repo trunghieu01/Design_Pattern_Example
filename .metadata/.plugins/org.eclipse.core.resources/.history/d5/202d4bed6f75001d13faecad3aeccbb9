@@ -1,0 +1,10 @@
+package acc;
+
+public class Logger implements Observer {
+
+	public void update(User user) {
+		// TODO Auto-generated method stub
+
+        System.out.println("Logger: " + user);
+	}
+}

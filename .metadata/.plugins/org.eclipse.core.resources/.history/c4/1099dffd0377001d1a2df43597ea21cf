@@ -1,0 +1,18 @@
+package state;
+
+
+4
+5
+6
+7
+8
+9
+package com.gpcoder.patterns.behavioral.state.document.improve;
+ 
+public class RejectedState implements State {
+ 
+    @Override
+    public void handleRequest() {
+        System.out.println("Rejected");
+    }
+}

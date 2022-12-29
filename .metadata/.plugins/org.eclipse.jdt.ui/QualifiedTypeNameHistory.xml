@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="factory_Pattern.Shape"/>
+    <fullyQualifiedTypeName name="factory_Pattern.BankFactory.BankType"/>
+    <fullyQualifiedTypeName name="Chair.Chair"/>
+    <fullyQualifiedTypeName name="Table.Table"/>
+    <fullyQualifiedTypeName name="java.lang.invoke.ClassSpecializer.Factory"/>
+    <fullyQualifiedTypeName name="chair.PlasticChair"/>
+    <fullyQualifiedTypeName name="table.PlasticTable"/>
+    <fullyQualifiedTypeName name="chair.WoodChair"/>
+    <fullyQualifiedTypeName name="table.WoodTable"/>
+    <fullyQualifiedTypeName name="factory.FurnitureAbstractFactory"/>
+    <fullyQualifiedTypeName name="chair.Chair"/>
+    <fullyQualifiedTypeName name="table.Table.MaterialType"/>
+    <fullyQualifiedTypeName name="factory.FurnitureFactory"/>
+    <fullyQualifiedTypeName name="table.Table"/>
+    <fullyQualifiedTypeName name="eagerInitialization.EagerInitializedSingleton"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="enumSingleton.EnumSingleton"/>
+    <fullyQualifiedTypeName name="type.BreadType"/>
+    <fullyQualifiedTypeName name="builder.OrderBuilder"/>
+    <fullyQualifiedTypeName name="concreteBuilder.FastFoodOrderBuilder"/>
+    <fullyQualifiedTypeName name="type.OrderType"/>
+    <fullyQualifiedTypeName name="order.Order"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="acc.Observer"/>
+    <fullyQualifiedTypeName name="lombok.Setter"/>
+    <fullyQualifiedTypeName name="pizza.IPizza"/>
+    <fullyQualifiedTypeName name="pizza.TomatoPizza"/>
+    <fullyQualifiedTypeName name="decorator.PepperDecorator"/>
+    <fullyQualifiedTypeName name="javax.security.auth.Subject"/>
+    <fullyQualifiedTypeName name="observer.Observer"/>
+    <fullyQualifiedTypeName name="subject.Subject"/>
+    <fullyQualifiedTypeName name="state.State"/>
+    <fullyQualifiedTypeName name="observer.HexaObserver"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,5 @@
+package pizza;
+
+ppublic interface IPizza {
+    String doPizza();
+}

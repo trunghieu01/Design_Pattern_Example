@@ -1,0 +1,6 @@
+package factory_Pattern;
+
+public interface Bank {
+	Double perimeter();
+	Double area();
+}

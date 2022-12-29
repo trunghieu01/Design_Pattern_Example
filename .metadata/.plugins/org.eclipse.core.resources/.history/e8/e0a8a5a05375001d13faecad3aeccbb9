@@ -1,0 +1,5 @@
+package lazyInitialized;
+
+public class LazyInitializedSingleton {
+
+}

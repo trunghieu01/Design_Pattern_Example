@@ -1,0 +1,5 @@
+package reflectionBreak;
+
+public class ReflectionBreakSingleton {
+
+}
